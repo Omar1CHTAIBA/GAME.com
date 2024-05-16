@@ -1,7 +1,7 @@
 while 1:
-    name = input("what is your name ? ")
-    if name:
-        print(" welcome " + name + " to our game (you need to guess the number) !\nthis game will increase your abilities of building strategies and forming a leadership spirit" )
+    names = input("what is your name ? ")
+    if names:
+        print(" welcome " + names + " to our game (you need to guess the number) !\nthis game will increase your abilities of building strategies and forming a leadership spirit" )
         break
     else:
         print("please enter your name ")
@@ -18,112 +18,112 @@ else:
 
 
 x = input('type your guess number : ')
-if int(x) == 68:
+if int(x) == 64:
     print("the number is correct (Congrats ,you win ! )")
     exit()
-elif int(x) <= 68:
+elif int(x) <= 64:
     print("the number you write is too low")
-elif int(x) >= 68:
+elif int(x) >= 64:
     print('the number you write is too high')
 
 x = input('type your guess number : ')
 
-if int(x) == 68:
+if int(x) == 64:
     print("the number is correct (Congrats ,you win ! )")
     exit()
-elif int(x) <= 68:
+elif int(x) <= 64:
     print("the number you write is too low")
-elif int(x) >= 68:
-    print('the number you write is too high')
-
-
-x = input('type your guess number : ')
-
-if int(x) == 68:
-    print("the number is correct (Congrats ,you win ! )")
-    exit()
-
-elif int(x) <= 68:
-    print("the number you write is too low")
-elif int(x) >= 68:
-    print('the number you write is too high')
-
-
-
-x = input('type your guess number : ')
-
-if int(x) == 68:
-    print("the number is correct (Congrats ,you win ! )")
-    exit()
-elif int(x) <= 68:
-    print("the number you write is too low")
-elif int(x) >= 68:
-    print('the number you write is too high')
-
-x = input('type your guess number : ')
-
-if int(x) == 68:
-    print("the number is correct (Congrats ,you win ! )")
-    exit()
-elif int(x) <= 68:
-    print("the number you write is too low")
-elif int(x) >= 68:
+elif int(x) >= 64:
     print('the number you write is too high')
 
 
 x = input('type your guess number : ')
 
-if int(x) == 68:
+if int(x) == 64:
     print("the number is correct (Congrats ,you win ! )")
     exit()
-elif int(x) <= 68:
+
+elif int(x) <= 64:
     print("the number you write is too low")
-elif int(x) >= 68:
+elif int(x) >= 64:
+    print('the number you write is too high')
+
+
+
+x = input('type your guess number : ')
+
+if int(x) == 64:
+    print("the number is correct (Congrats ,you win ! )")
+    exit()
+elif int(x) <= 64:
+    print("the number you write is too low")
+elif int(x) >= 64:
+    print('the number you write is too high')
+
+x = input('type your guess number : ')
+
+if int(x) == 64:
+    print("the number is correct (Congrats ,you win ! )")
+    exit()
+elif int(x) <= 64:
+    print("the number you write is too low")
+elif int(x) >= 64:
+    print('the number you write is too high')
+
+
+x = input('type your guess number : ')
+
+if int(x) == 64:
+    print("the number is correct (Congrats ,you win ! )")
+    exit()
+elif int(x) <= 64:
+    print("the number you write is too low")
+elif int(x) >= 64:
     print('the number you write is too  high')
 
 
 
 x = input('type your guess number : ')
 
-if int(x) == 68:
+if int(x) == 64:
     print("the number is correct (Congrats ,you win ! )")
     exit()
-elif int(x) <= 68:
+elif int(x) <= 64:
     print("the number you write is too low")
-elif int(x) >= 68:
+elif int(x) >= 64:
     print('the number you write is too high')
 
 
 x = input('type your guess number : ')
 
-if int(x) == 68:
+if int(x) == 64:
     print("the number is correct (Congrats ,you win ! )")
     exit()
-elif int(x) <= 68:
+elif int(x) <= 64:
     print("the number you write is too low")
-elif int(x) >= 68:
+elif int(x) >= 64:
     print('the number you write is too high')
 
 
 x = input('type your guess number : ')
 
-if int(x) == 68:
+if int(x) == 64:
     print("the number is correct (Congrats ,you win ! )")
     exit()
-elif int(x) <= 68:
+elif int(x) <= 64:
     print("the number you write is too low")
-elif int(x) >= 68:
+elif int(x) >= 64:
     print('the number you write is too high')
 
 x = input('type your guess number : ')
 
-if int(x) == 68:
+if int(x) == 64:
     print("the number is correct (Congrats ,you win ! )")
     print("thank you for playing ")
-elif int(x) <= 68:
+elif int(x) <= 64:
     print("you lose the game")
     print("thank you for playing")
-elif int(x) >= 68:
+elif int(x) >= 64:
     print('you lose the game ')
     print("thank you for playing")
 
